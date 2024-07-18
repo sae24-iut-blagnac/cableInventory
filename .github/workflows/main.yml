@@ -19,6 +19,7 @@ jobs:
         run: |
           git config --global user.name "alex.etne"
           git config --global user.email "alexandre.etienne05@gmail.com"
+          git config --global pull.rebase false # Ensure merging is used by default
 
       - name: Fetch all branches
         run: git fetch --all

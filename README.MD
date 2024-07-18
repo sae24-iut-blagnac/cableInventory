@@ -94,8 +94,5 @@ CableManagement est un système de gestion de câbles permettant de gérer les u
 ## Contributions
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour toute suggestion.
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## Contact
-Pour toute question, veuillez contacter [alex@etienne26.fr](mailto:alex@etienne26.fr).
+

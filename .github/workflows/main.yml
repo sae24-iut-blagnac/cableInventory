@@ -27,7 +27,7 @@ jobs:
         run: git checkout -b dev origin/dev # Replace with the name of your target branch
 
       - name: Merge source branch into target branch
-        run: git merge main # Replace with the name of your source branch
+        run: git merge main --allow-unrelated-histories # Replace with the name of your source branch
 
       - name: Push changes
         run: git push origin dev # Replace with the name of your target branch
